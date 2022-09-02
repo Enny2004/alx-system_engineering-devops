@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-My script
+Task 0. wWhere am I ?
