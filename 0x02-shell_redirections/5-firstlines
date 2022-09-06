@@ -1,2 +1,2 @@
-0x02. Shell, I/O Redirections and filters
-head -n 10 /etc/passwd
+#!/bin/bash
+haed -n 10 /etc/passwd
