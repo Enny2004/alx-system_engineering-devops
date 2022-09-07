@@ -1,2 +1,7 @@
 #!/bin/bash
-$((TRUEKNOWLEDGE + 128))
+$(($TRUEKNOWLEDGE+128)) >> 8-true_knowledge
+echo 128 >> 8-true_knowledge
+
+echo 128
+$(($TRUEKNOWLEDGE+128))
+$(($TRUEKNOWLEDGE+128))
