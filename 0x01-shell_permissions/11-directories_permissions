@@ -1,5 +1,2 @@
 #!/bin/bash
-chmod ugo+x dir0
-chmod ugo+x dir1
-chmod ugo+x dir2
-chmod ugo+x hello
+chmod a+x */
